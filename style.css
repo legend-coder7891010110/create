@@ -1,0 +1,24 @@
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    
+}
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'font-family: 'Lobster', cursive';
+    font-weight: 300;
+}
